@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clemapp-staging-161708-authRole",
+      "UnauthRoleArn": "arn:aws:iam::546894658142:role/amplify-clemapp-staging-161708-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::546894658142:role/amplify-clemapp-staging-161708-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-clemapp-staging-161708-deployment",
+      "UnauthRoleName": "amplify-clemapp-staging-161708-unauthRole",
+      "StackName": "amplify-clemapp-staging-161708",
+      "StackId": "arn:aws:cloudformation:us-east-1:546894658142:stack/amplify-clemapp-staging-161708/e9031420-8f9b-11ee-926e-0e5432b5d559",
+      "AmplifyAppId": "d3h47yjtu9n8io"
+    },
+    "categories": {
+      "auth": {
+        "clemapp": {}
+      },
+      "storage": {
+        "s3clemappstoragefc83e295": {}
+      }
+    }
+  }
+}

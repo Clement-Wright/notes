@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3clemappstoragefc83e295",
+  "bucketName": "clemapp-storage-fc83e295",
+  "policyUUID": "25187d34",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
